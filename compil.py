@@ -2,11 +2,13 @@
 from pathlib import Path
 
 FILENAME = "total.csv"
+HEADER = "Date,Qui,Quoi,Delta,Total Caisse,Total Coffre,Total Coffre plus Caisse (Cash),Total Banque,Total Urlab,Commentaire du trésorier"
 
 def main():
-	open(FILENAME, "w", encoding='utf-8')
+	with open(FILENAME, "w", encoding='utf-8') as f:
+		f.write(HEADER)
 
-	here = Path(".")
+	here = Path('.')
 	# Get all directories in here but not .git
 	dirs = [i for i in here.iterdir() if i.is_dir() and i.name[0] != '.']
 
