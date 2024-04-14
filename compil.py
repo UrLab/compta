@@ -2,7 +2,7 @@
 from pathlib import Path
 
 FILENAME = "total.csv"
-HEADER = "Date,Qui,Quoi,Delta,Total Caisse,Total Coffre,Total Coffre plus Caisse (Cash),Total Banque,Total Urlab,Commentaire du trésorier"
+HEADER = "Date,Qui,Quoi,Delta,Total Caisse,Total Coffre,Total Coffre plus Caisse (Cash),Total Banque,Total Urlab,Commentaire du trésorier\n"
 
 def main():
 	with open(FILENAME, "w", encoding='utf-8') as f:
