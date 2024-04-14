@@ -10,15 +10,19 @@ def main():
 
 	here = Path('.')
 	# Get all directories in here but not .git
-	dirs = [i for i in here.iterdir() if i.is_dir() and i.name[0] != '.']
+	dirs = [i for i in here.iterdir() if i.is_dir() and i.name[0] != '.' and i.name.isnumeric()]
+	dirs.sort()
 
 	for dir_ in dirs:
 		files = [file for file in dir_.iterdir()]
+		files.sort(key=lambda x: x.name[:2])
 
 		for file in files:
+			print(file)
 			with file.open(mode='r', encoding='utf-8') as f:
 				file_text = f.readlines()
-			file_text = file_text[1:]
+			if file_text[0][:4] == "Date":
+				file_text = file_text[1:]
 
 			for l in range(len(file_text)):
 				line = file_text[l]
