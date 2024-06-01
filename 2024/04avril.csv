@@ -11,4 +11,12 @@ Date, Qui, Quoi, Delta, Total Caisse, Total Coffre, Total Coffre plus Caisse (Ca
 14,Astramast/Arthur,Hotend Prusa MK3,-79.99,57.51,856.03,913.54,422.25,1335.79,Ticket ID 18
 14,Astramast/Arthur,Livraison,-11.49,57.51,844.54,902.05,422.25,1324.3,Ticket ID 18
 14,Astramast/Arthur,Don,2.06,57.51,846.6,904.11,422.25,1326.36,
-16,Astramast/Arthur,Décompte de fin d’année,45.5000000000002,0,949.61,949.61,422.25,1371.86,
+16,Astramast/Arthur,Décompte de fin d’année,45.5,0,949.61,949.61,422.25,1371.86,
+16,QuarkUp/frog,Transfert caisse,0,59.61,890,949.61,422.25,1371.86,
+19,QuarkUp/frog,Ardoise,9.07,68.68,890,958.68,422.25,1380.93,
+19,QuarkUp/frog,Coca-cola zero 33cl x15,-12.29,56.39,890,946.39,422.25,1368.64,Ticket ID 19
+19,QuarkUp/frog,Fanta Orange 33cl x15,-12.47,43.92,890,933.92,422.25,1356.17,Ticket ID 19
+19,QuarkUp/frog,Sprite 33cl x15,-13.88,30.04,890,920.04,422.25,1342.29,Ticket ID 19
+19,QuarkUp/frog,Lay’s chips paprika 45g x20,-13.8,16.24,890,906.24,422.25,1328.49,Ticket ID 19
+19,QuarkUp/frog,Everyday gaufres 10x55g,-1.63,14.61,890,904.61,422.25,1326.86,Ticket ID 19
+25,QuarkUp/frog,Transfert caisse,0,74.61,830,904.61,422.25,1326.86,
