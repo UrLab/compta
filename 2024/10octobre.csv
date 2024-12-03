@@ -1,5 +1,5 @@
 Date, Qui, Quoi, Delta, Total Caisse, Total Coffre, Total Coffre plus Caisse (Cash), Total Banque, Total Urlab, Commentaire du Tr?sorier
-3,QuarkUp/frog,init,0,141.14,830,830,422.25,1393.39,
+3,QuarkUp/frog,init,0,141.14,830,971.14,422.25,1393.39,
 3,QuarkUp/frog,Don ardoise,20,161.14,830,991.14,422.25,1413.39,
 14,QuarkUp/frog,coti,5,166.14,830,996.14,422.25,1418.39,
 14,QuarkUp/frog,coti,5,171.14,830,1001.14,422.25,1423.39,
@@ -16,4 +16,4 @@ Date, Qui, Quoi, Delta, Total Caisse, Total Coffre, Total Coffre plus Caisse (Ca
 24,QuarkUp/frog,sacs,-2.5,75.8,820,895.8,422.25,1318.05,Ticket 29
 24,QuarkUp/frog,sacs,-1.5,74.3,820,894.3,422.25,1316.55,Ticket 29
 24,QuarkUp/frog,dons oct,71.35,145.65,820,965.65,422.25,1387.9,
-27,QuarkUp/frog,,-153.4,145.65,820,965.65,276.6,1242.25,Ticket 30
+27,QuarkUp/frog,,-153.4,145.65,820,965.65,268.85,1234.5,Ticket 30
