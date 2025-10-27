@@ -21,5 +21,6 @@ L'idée de structure de ce repo est donc la suivante :
 - Tous les tickets du quadri courant sont placés dans le dossier Tickets/, au format .jpg
 - A la fin de chaque quadri une backup des tickets doit être faite et placée dans le NAS du hs
   
-De cette manière, en utilisant le dernier bilan pluss les transaction qui ont eu lieu on peut vérifier la véracité des comptes. A noter que les backups de tickets ont tout intérêt à être dupliquées, en envoyer une au cerkinfo est une bonne idée.
+De cette manière, en utilisant le dernier bilan pluss les transaction qui ont eu lieu on peut vérifier la véracité des comptes. A noter que les backups de tickets ont tout intérêt à être dupliquées, en envoyer une au cerkinfo est une bonne idée.  
+La distribution entre le cash dans la caisse du hs, dans le coffre du hs et dans le compte en banque est à la discrétion et à la responsabilité du ou de la responsable des comptes du hs.  
 
