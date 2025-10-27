@@ -20,4 +20,6 @@ L'idée de structure de ce repo est donc la suivante :
 - Tous les bilans sont placés dans le dossier bilans/
 - Tous les tickets du quadri courant sont placés dans le dossier Tickets/, au format .jpg
 - A la fin de chaque quadri une backup des tickets doit être faite et placée dans le NAS du hs
+  
+De cette manière, en utilisant le dernier bilan pluss les transaction qui ont eu lieu on peut vérifier la véracité des comptes. A noter que les backups de tickets ont tout intérêt à être dupliquées, en envoyer une au cerkinfo est une bonne idée.
 
