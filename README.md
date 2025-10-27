@@ -6,7 +6,7 @@
 
 Chaque année une réunion doit être faite avec la présidence et la trésorerie du cerkinfo, c.f. le repo [PVREUS](https://github.com/urlab/PVREUS).  
   
-Pour chaque entrée ou sortie, il faut indiquer dans un fichier au format [csv](https://www.rfc-editor.org/rfc/rfc4180) la Date, la Nature (courses, cotisation, matériel, etc.), la Quantité (-12.65, 22.34, etc.) et le numéro du ticket en question si applicable.  
+Pour chaque entrée ou sortie, il faut indiquer dans un fichier au format [csv](https://www.rfc-editor.org/rfc/rfc4180) la Date, la Nature (courses, cotisation, matériel, etc.), la Quantité (-12.65, 22.34, etc.), le Compte que ça concerne (Caisse, Coffre, Banque, etc) et le numéro du ticket en question si applicable, sinon le chiffre -1.  
   
 Pour chaque Quadri, il faut produire un bilan du quadri contenant :
 - Combien il y avait au début du quadri
@@ -22,5 +22,11 @@ L'idée de structure de ce repo est donc la suivante :
 - A la fin de chaque quadri une backup des tickets doit être faite et placée dans le NAS du hs
   
 De cette manière, en utilisant le dernier bilan pluss les transaction qui ont eu lieu on peut vérifier la véracité des comptes. A noter que les backups de tickets ont tout intérêt à être dupliquées, en envoyer une au cerkinfo est une bonne idée.  
-La distribution entre le cash dans la caisse du hs, dans le coffre du hs et dans le compte en banque est à la discrétion et à la responsabilité du ou de la responsable des comptes du hs.  
+La distribution entre le cash dans la caisse du hs, dans le coffre du hs et dans le compte en banque est à la discrétion et à la responsabilité du ou de la responsable des comptes du hs, les transferts doivent être indiqués dans les comptes en utilisant deux lignes.  
+
+Exemple de transfert:  
+\<date\>,transfert,-75,Caisse,-1
+\<date\>,transfert,75,Banque,-1
+
+Ceci permet de très facilement filtrer et extraire toutes les transactions de la caisse par exemple. Il faut noter dans les bilans la distribution de l'argent entre les différents comptes.
 
