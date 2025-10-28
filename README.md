@@ -30,4 +30,6 @@ Exemple de transfert:
 
 Ceci permet de très facilement filtrer et extraire toutes les transactions de la caisse par exemple. Il faut noter dans les bilans la distribution de l'argent entre les différents comptes.  
 Remarque : Il est conseill? de garder le plus possible les ?crits en ASCII.  
+  
+Il y a dans le dossier comptages tous les décomptes de caisse, coffre et banques qui ont été faits.  
 
