@@ -6,7 +6,7 @@
 
 Chaque année une réunion doit être faite avec la présidence et la trésorerie du cerkinfo, c.f. le repo [PVREUS](https://github.com/urlab/PVREUS).  
   
-Pour chaque entrée ou sortie, il faut indiquer dans un fichier au format [csv](https://www.rfc-editor.org/rfc/rfc4180) la Date, la Nature (courses, cotisation, matériel, etc.), la Quantité (-12.65, 22.34, etc.), le Compte que ça concerne (Caisse, Coffre, Banque, etc) et le numéro du ticket en question si applicable, sinon le chiffre -1.  
+Pour chaque entrée ou sortie, il faut indiquer dans un fichier au format [csv](https://www.rfc-editor.org/rfc/rfc4180) la Date, la Nature (courses, outils, etc.), la Quantité (-12.65, 22.34, etc.), le Compte que ça concerne (Caisse, Coffre, Banque, etc), la Catégorie (Bar, Materiel, etc.) et le numéro du ticket en question si applicable, sinon le chiffre -1.  
   
 Pour chaque Quadri, il faut produire un bilan du quadri contenant :
 - Combien il y avait au début du quadri
