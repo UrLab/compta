@@ -3,7 +3,8 @@ Date,Nature,Categorie,Quantite,Compte,TicketID,Commentaire
 10,Ventilateur,Materiel,-65,Caisse,52,
 10,Affiche JANE,Materiel,-1,Caisse,53,
 10,Cartes a jouer,Materiel,-5.5,Caisse,54,
-15,Courses Colruyt,Bar,-53.53,Caisse,55,
+15,Courses Colruyt,Bar,-53.55,Caisse,55,
+15,Ramen,Bar,-11.15,Caisse,61,4 paquets de 5 ramen = 0.8*13.60=11.15
 16,Fer a souder,Materiel,-14.3,Caisse,56,
 17,HDMI to LVDS Converter,Materiel,-20.7,Caisse,57,
 19,Courses Colruyt,Bar,-50,Caisse,58,
