@@ -1,6 +1,6 @@
 Date,Nature,Categorie,Quantite,Compte,TicketID,Commentaire
-12,5 cle usb (pour LIP),matériel,-50,caisse,66,cobutex
-19,boissons + chips,bar,-58.24,caisse,67,colruyt
+12,boissons + chips,bar,-58.24,caisse,67,colruyt
+19,5 cle usb (pour LIP),matériel,-50,caisse,66,cobutex
 23,boissons,bar,-60.43,caisse,68,colruyt
 26,usb,matériel,-58.33,caisse,69,allkabels.be
 26,batteries,matériel,-63.95,caisse,70,nkon
@@ -10,3 +10,4 @@ Date,Nature,Categorie,Quantite,Compte,TicketID,Commentaire
 27,rallonge ,matériel,-39.69,caisse,74,aliexpress
 27,usb to 34pin,matériel,-13.79,caisse,75,aliexpress
 27,pompe eau,matériel,-5.04,caisse,76,aliexpress
+27,solder cleaner,matériel,-7.78,caisse,77,aliexpress
